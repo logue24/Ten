@@ -1,0 +1,6 @@
+{
+  "name": "VietName Select - Bộ Lọc Tên Song Hành Quốc Tế & Việt Nam",
+  "description": "Bộ lọc và tuyển chọn tên đẹp nhất từ danh sách tổ hợp tên Việt Nam, tối ưu đồng thời tính quốc tế (dễ đọc không dấu), ý nghĩa nội địa sâu sắc và độ độc đáo (không đại trà internet).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
